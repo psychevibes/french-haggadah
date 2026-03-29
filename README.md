@@ -81,8 +81,7 @@ Please preserve:
 
 ## License
 
-- **Source English/Hebrew text**: CC0 (Sefaria Edition / Sefaria Community Translation)
-- **French translations**: MIT License — free to use, modify, and distribute
+This work is dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). No rights reserved — use it however you want.
 
 ## Credits
 
