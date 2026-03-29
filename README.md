@@ -94,15 +94,15 @@ console.log(dayenuFr[0]);
 ### Via CDN (jsDelivr)
 
 ```
-https://cdn.jsdelivr.net/gh/orenplevin/french-haggadah@main/ashkenazi-fr.json
-https://cdn.jsdelivr.net/gh/orenplevin/french-haggadah@main/sephardic-fr.json
+https://cdn.jsdelivr.net/gh/psychevibes/french-haggadah@main/ashkenazi-fr.json
+https://cdn.jsdelivr.net/gh/psychevibes/french-haggadah@main/sephardic-fr.json
 ```
 
 ### Direct fetch
 
 ```javascript
 const res = await fetch(
-  'https://cdn.jsdelivr.net/gh/orenplevin/french-haggadah@main/ashkenazi-fr.json'
+  'https://cdn.jsdelivr.net/gh/psychevibes/french-haggadah@main/ashkenazi-fr.json'
 );
 const haggadah = await res.json();
 ```
